@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gayakwad Vaishnavi!
 
-🚀 Full Stack Java Developer at **Techeon**
+# 👩‍💻 Full Stack Java Developer at **Techeon**
 
-🌱 I love building complete web applications from scratch — from pixel-perfect frontends to robust backends and efficient databases.
+I love building complete web applications from scratch — from pixel-perfect frontends to robust backends and efficient databases.
 
 ---
 
