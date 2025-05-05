@@ -26,7 +26,7 @@ ___
 ---
 
 ## Connect With Me
-<p align="center">
+<p>
   <a href="https://github.com/yourusername" target="_blank" style="display: inline-block; background-color: #181717; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
     GitHub
   </a>
