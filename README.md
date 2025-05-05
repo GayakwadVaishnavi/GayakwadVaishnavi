@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gayakwad Vaishnavi!
+Hello, I'm *Gayakwad Vaishnavi!*
 
 # 👩‍💻 Full Stack Java Developer at **Techeon**
 
