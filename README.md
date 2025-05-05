@@ -26,10 +26,20 @@ ___
 ---
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yourprofile)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+<p align="left">
+  <a href="https://github.com/yourusername" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/yourprofile" target="_blank" title="HackerRank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="30" alt="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/users/yourusername" target="_blank" title="CodeChef">
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" width="30" alt="CodeChef"/>
+  </a>
+</p>
 
 ---
 
