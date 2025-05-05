@@ -4,7 +4,7 @@ Hello, I'm *Gayakwad Vaishnavi!*
 
 I love building complete web applications from scratch — from pixel-perfect frontends to robust backends and efficient databases.
 
---
+___
 
 ## Tech Stack
 
