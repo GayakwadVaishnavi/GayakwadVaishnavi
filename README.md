@@ -26,17 +26,17 @@ ___
 ---
 
 ## Connect With Me
-<p>
-  <a href="https://github.com/yourusername" target="_blank" style="display: inline-block; background-color: #181717; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #333, #555); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
     GitHub
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="display: inline-block; background-color: #0A66C2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #0A66C2, #0077b5); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
     LinkedIn
   </a>
-  <a href="https://www.hackerrank.com/yourprofile" target="_blank" style="display: inline-block; background-color: #2EC866; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+  <a href="https://www.hackerrank.com/yourprofile" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #2EC866, #1E9D57); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
     HackerRank
   </a>
-  <a href="https://www.codechef.com/users/yourusername" target="_blank" style="display: inline-block; background-color: #5B4638; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+  <a href="https://www.codechef.com/users/yourusername" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #5B4638, #8A6747); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
     CodeChef
   </a>
 </p>
