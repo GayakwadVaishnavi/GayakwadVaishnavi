@@ -26,20 +26,13 @@ ___
 ---
 
 ## Connect With Me
-<p align="center">
-  <a href="https://github.com/yourusername" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #333, #555); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
-    GitHub
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #0A66C2, #0077b5); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
-    LinkedIn
-  </a>
-  <a href="https://www.hackerrank.com/yourprofile" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #2EC866, #1E9D57); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
-    HackerRank
-  </a>
-  <a href="https://www.codechef.com/users/yourusername" target="_blank" style="display: inline-block; background: linear-gradient(90deg, #5B4638, #8A6747); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; margin: 10px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); transition: all 0.3s ease;">
-    CodeChef
-  </a>
-</p>
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourprofile)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
+
 
 ---
 
