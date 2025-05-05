@@ -26,18 +26,18 @@ ___
 ---
 
 ## Connect With Me
-<p align="left">
-  <a href="https://github.com/yourusername" target="_blank" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="50" style="border-radius: 50%; border: 2px solid #000; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="50" style="border-radius: 50%; border: 2px solid #0A66C2; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.hackerrank.com/yourprofile" target="_blank" title="HackerRank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="30" alt="HackerRank"/>
+  <a href="https://www.hackerrank.com/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" style="border-radius: 50%; border: 2px solid #2EC866; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.codechef.com/users/yourusername" target="_blank" title="CodeChef">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" width="30" alt="CodeChef"/>
+  <a href="https://www.codechef.com/users/yourusername" target="_blank">
+    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="50" style="border-radius: 50%; border: 2px solid #5B4638; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
 
