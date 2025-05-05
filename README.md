@@ -26,11 +26,10 @@
 ---
 
 ## 🌐 Connect With Me
-- [🔗 LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [🐦 Twitter](https://twitter.com/yourhandle)
-- [👨‍💻 HackerRank](https://www.hackerrank.com/yourprofile)
-- [🥘 CodeChef](https://www.codechef.com/users/yourusername)
-- [📂 GitHub](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yourprofile)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
