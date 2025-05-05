@@ -25,7 +25,7 @@ ___
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yourprofile)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
