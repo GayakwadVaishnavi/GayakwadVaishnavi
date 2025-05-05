@@ -27,17 +27,17 @@ ___
 
 ## Connect With Me
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="50" style="border-radius: 50%; border: 2px solid #000; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://github.com/yourusername" target="_blank" style="display: inline-block; background-color: #181717; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+    GitHub
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="50" style="border-radius: 50%; border: 2px solid #0A66C2; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="display: inline-block; background-color: #0A66C2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+    LinkedIn
   </a>
-  <a href="https://www.hackerrank.com/yourprofile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" style="border-radius: 50%; border: 2px solid #2EC866; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.hackerrank.com/yourprofile" target="_blank" style="display: inline-block; background-color: #2EC866; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+    HackerRank
   </a>
-  <a href="https://www.codechef.com/users/yourusername" target="_blank">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="50" style="border-radius: 50%; border: 2px solid #5B4638; padding: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.codechef.com/users/yourusername" target="_blank" style="display: inline-block; background-color: #5B4638; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; transition: all 0.3s ease;">
+    CodeChef
   </a>
 </p>
 
