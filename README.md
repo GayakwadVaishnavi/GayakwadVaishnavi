@@ -18,9 +18,6 @@ ___
 </p>
 
 
-
----
-
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayakwadVaishnavi/)
@@ -29,14 +26,6 @@ ___
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.hackerrank.com/profile/gayakwadvaishna1)
 
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
 
 *Always eager to learn, build, and optimize applications that make a difference.*
 
