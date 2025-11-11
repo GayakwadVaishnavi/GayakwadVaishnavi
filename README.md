@@ -2,8 +2,7 @@
 <h3 align="center">💻 Software Developer at Techeon | Crafting Scalable, User-Focused Web Applications</h3>
 
 ---
-
-### 👩‍💻 About Me  
+<h4 align="center">About Me</h4>  
 
 🚀 I’m a **Software Developer** passionate about building **responsive, accessible, and high-performance web applications**.  
 💡 I specialize in **React**, **TypeScript**, and **Tailwind CSS** to create seamless front-end experiences.  
